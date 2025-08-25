@@ -38,6 +38,5 @@ Sistema integral para la gestión de una cadena hotelera que incluye módulos de
 - **Cristian Herrera**
 - **Alejandra Lopez**
 - **Ezequiel Sanchez**
-- **David Pedro**
  ---
  **Hotel Code System** © 2025 - Desarrollado con ❤️ para la industria hotelera
