@@ -26,16 +26,17 @@ Sistema integral para la gestión de una cadena hotelera que incluye módulos de
 | Métrica | Target | Status |
 |---------|--------|---------|
 | **Duración** | 18 meses | 📅 Planificado |
-| **Equipo** | 6 personas | 👥 Definido |
+| **Equipo** | 5 personas | 👥 Definido |
 | **Presupuesto Herramientas** | $.../año | 💰 Aprobado |
 | **Cobertura Testing** | >80% | 🧪 Objetivo |
 | **Uptime** | >99.5% | 🚀 Meta |
   
 
 ### 🎯Integrantes: 
-- **Natalia Zavala**
+
 - **Agustín Palomeque**
 - **Cristian Herrera**
+- **Natalia Zavala**
 - **Alejandra Lopez**
 - **Ezequiel Sanchez**
  ---
